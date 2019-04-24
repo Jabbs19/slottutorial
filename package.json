@@ -1,0 +1,26 @@
+{
+  "name": "slotstutorial",
+  "version": "1.0.0",
+  "description": "My Slots application ",
+  "main": "slotpull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabbs19/slottutorial.git"
+  },
+  "keywords": [
+    "slots",
+    "sample"
+  ],
+  "author": "Mark Jablonski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jabbs19/slottutorial/issues"
+  },
+  "homepage": "https://github.com/Jabbs19/slottutorial#readme",
+  "dependencies": {
+    "aws-sdk": "^2.441.0"
+  }
+}
